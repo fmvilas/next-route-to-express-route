@@ -1,6 +1,6 @@
 {
   "name": "next-route-to-express-route",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Converts Next.js routes to Express.js routes.",
   "main": "index.js",
   "scripts": {
